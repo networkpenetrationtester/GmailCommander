@@ -1,0 +1,27 @@
+{
+  "name": "gmail-antispam",
+  "version": "1.0.0",
+  "main": "GmailCommander.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "networkpenetrationtester",
+  "license": "ISC",
+  "description": "gmail TUI",
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "googleapis": "^154.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "GmailAntispam"
+  },
+  "keywords": [
+    "gmail",
+    "spam",
+    "phishing",
+    "tui",
+    "mail"
+  ]
+}
